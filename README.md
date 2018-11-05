@@ -1,4 +1,4 @@
-# Prog2-C-
+# Prog2-Cpp
 Assignment Tasks for Programming II Module for 2016-17 
 <br /><br />
 Assignment 1 - connect_four.cpp => A Connect Four game <br />
